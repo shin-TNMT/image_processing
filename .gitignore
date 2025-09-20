@@ -1,0 +1,8 @@
+.vscode/*
+.image_proc/etc/*
+.image_proc/images/*
+.image_proc/include/*
+.image_proc/Lib/*
+.image_proc/Scripts/*
+.image_proc/share/*
+.image_proc/pyvenv.cfg
